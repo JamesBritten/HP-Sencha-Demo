@@ -2,6 +2,8 @@
 
 ## Overview
 
+James Update from Git Hub
+
 As part of this training Session we are going to create a simple Sencha Touch 1.1 Application. The app will train you in how to build a Sencha touch User Interface and how to navigate within it. You will also learn to use the FeedHenry APIs.
 
 ![](https://github.com/feedhenry/HP-Sencha-Demo/raw/v1/docs/HomeView.png)
